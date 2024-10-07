@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.10)
 
 set (CMAKE_VERBOSE_MAKEFILE ON)
 set (CMAKE_CXX_STANDARD 17)
-set (PACKAGE_NAME "react-native-media-library")
+set (PACKAGE_NAME "react-native-media-lib")
 
 set (BUILD_DIR ${CMAKE_SOURCE_DIR}/build)
 include("${REACT_NATIVE_DIR}/ReactAndroid/cmake-utils/folly-flags.cmake")
