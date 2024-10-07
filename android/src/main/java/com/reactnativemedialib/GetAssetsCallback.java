@@ -1,4 +1,4 @@
-package com.reactnativemedialibrary;
+package com.reactnativemedialib;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;

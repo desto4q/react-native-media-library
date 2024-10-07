@@ -1,4 +1,4 @@
-package com.reactnativemedialibrary
+package com.reactnativemedialib
 
 fun String.fixFilePathFromJs(): String {
   return if (this.startsWith("file://")) this.substring(7) else this

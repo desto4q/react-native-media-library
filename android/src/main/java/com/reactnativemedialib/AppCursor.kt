@@ -1,4 +1,4 @@
-package com.reactnativemedialibrary
+package com.reactnativemedialib
 
 import android.content.ContentResolver
 import android.database.Cursor

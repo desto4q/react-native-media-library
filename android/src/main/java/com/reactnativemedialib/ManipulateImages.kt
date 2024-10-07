@@ -1,4 +1,4 @@
-package com.reactnativemedialibrary
+package com.reactnativemedialib
 
 import android.content.Context
 import android.content.res.Resources

@@ -1,4 +1,4 @@
-package com.reactnativemedialibrary
+package com.reactnativemedialib
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule
